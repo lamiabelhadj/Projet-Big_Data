@@ -1,0 +1,16 @@
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>file:///</value>
+    </property>
+
+
+<property>
+    <name>hadoop.home.dir</name>
+    <value>C:/hadoop</value>
+</property>
+<property>
+    <name>hadoop.tmp.dir</name>
+    <value>C:/tmp/hadoop</value>
+</property>
+</configuration>
