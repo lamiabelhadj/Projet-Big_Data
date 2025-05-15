@@ -32,7 +32,9 @@ public class FuelMapper extends Mapper<Object, Text, Text, IntWritable> {
                 }
             }
         } catch (Exception e) {
-            // Optionally log or skip malformed lines
+
+            System.err.println("Error parsing line: " + line);
+            e.printStackTrace();
         }
     }
 }
