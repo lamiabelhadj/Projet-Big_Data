@@ -1,0 +1,44 @@
+{
+  "ct" : {
+    "station_count" : 1,
+    "fuel_type_counts" : {
+      "elec" : 1
+    }
+  },
+  "wi" : {
+    "station_count" : 79,
+    "fuel_type_counts" : {
+      "lpg" : 3,
+      "e85" : 22,
+      "elec" : 52,
+      "cng" : 2
+    }
+  },
+  "il" : {
+    "station_count" : 1619,
+    "fuel_type_counts" : {
+      "lpg" : 42,
+      "bd" : 93,
+      "e85" : 188,
+      "lng" : 1,
+      "elec" : 1271,
+      "cng" : 24
+    }
+  },
+  "in" : {
+    "station_count" : 128,
+    "fuel_type_counts" : {
+      "lpg" : 5,
+      "e85" : 46,
+      "lng" : 1,
+      "elec" : 72,
+      "cng" : 4
+    }
+  },
+  "az" : {
+    "station_count" : 1,
+    "fuel_type_counts" : {
+      "elec" : 1
+    }
+  }
+}

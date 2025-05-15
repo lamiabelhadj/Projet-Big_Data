@@ -1,0 +1,13 @@
+{
+  "ev_access_type_counts" : {
+    "Private - Government only" : 7,
+    "TEMPORARILY UNAVAILABLE (Public)" : 98,
+    "PLANNED - not yet accessible (Public)" : 2,
+    "Public - Call ahead" : 29,
+    "Public" : 1160,
+    "Private - Fleet customers only" : 1,
+    "Private" : 85,
+    "Public - Credit card at all times" : 15
+  },
+  "total_ev_stations" : 1397
+}

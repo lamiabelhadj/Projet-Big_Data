@@ -1,0 +1,30 @@
+{
+  "total_stations" : 1828,
+  "access_type_counts" : {
+    "Private - Government only" : 28,
+    "TEMPORARILY UNAVAILABLE (Public)" : 98,
+    "PLANNED - not yet accessible (Public - Credit card at all times)" : 1,
+    "PLANNED - not yet accessible (Public)" : 2,
+    "Public - Call ahead" : 55,
+    "Public - Credit card after hours" : 14,
+    "Public" : 1492,
+    "Private - Fleet customers only" : 4,
+    "Private" : 99,
+    "Public - Credit card at all times" : 35
+  },
+  "fuel_type_counts" : {
+    "e85" : 256,
+    "bd" : 93,
+    "lng" : 2,
+    "cng" : 30,
+    "lpg" : 50,
+    "elec" : 1397
+  },
+  "state_counts" : {
+    "wi" : 79,
+    "il" : 1619,
+    "az" : 1,
+    "in" : 128,
+    "ct" : 1
+  }
+}
