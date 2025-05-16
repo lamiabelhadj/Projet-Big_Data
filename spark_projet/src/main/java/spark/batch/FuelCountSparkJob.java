@@ -53,7 +53,7 @@ public class FuelCountSparkJob {
 
         SparkSession spark = SparkSession.builder()
                 .appName("Fuel Station Count")
-//                .master("local[*]")  // Remove this for cluster deployment
+//                .master("local[*]")  
                 .getOrCreate();
 
         // Read CSV with proper parser
